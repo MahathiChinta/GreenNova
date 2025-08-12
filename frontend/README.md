@@ -1,12 +1,30 @@
-# React + Vite
+# 🌱 GreenNova Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **GreenNova Frontend** is the user interface for the GreenNova platform — a sustainable energy management and job scheduling tool.  
+It is built using **React.js** and communicates with the GreenNova backend via REST APIs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⚡ **Fast & Responsive UI** — Built with React.js and modern styling libraries.
+- 🔍 **Job Scheduling Visualization** — View and manage scheduling data with ease.
+- 🌐 **API Integration** — Fully connected to the backend for dynamic data.
+- 🎨 **Modern Styling** — Tailwind CSS / CSS Modules for clean and scalable design.
+- 🤖 **Agent Assistant (Under Development)** — AI-powered assistant to help manage schedules and provide insights. *(Currently in progress — some features may not work yet.)*
+- 🛠 **Developer-Friendly** — Simple project structure and clear code organization.
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **React.js** — UI framework
+- **Vite** / **Create React App** — Development & bundling
+- **Tailwind CSS** — Styling
+- **Axios / Fetch** — API requests
+- **React Router** — Navigation
+
+---
+
+> ⚠ **Note:** The **Agent Assistant** is still being actively developed.  
+> Expect incomplete functionality and placeholder responses until the final version is released.
+
